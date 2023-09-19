@@ -11,6 +11,8 @@ App is planing.
 
 You can use DevShots to make Code Image, ScreenCapture Image, even iPhone Mockup
 
+<img src="images/x-shots-1695142830662.png">
+
 Now we have these features:
 
  * X.com(Twitter), Threads, Facebook, Instagram, Pinterest, Reddit, LinkedIn, TikTok Media templates. with Square, Landscape, Portrait Style.
