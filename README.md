@@ -3,7 +3,7 @@ Developer Tool to Create Code Share Image
 
 ## Products
 
-You can use this tool at [gpwzw.com](https://www.gpwzw.com).
+You can use this tool at [devshots.app](https://devshots.app).
 
 App is planing.
 
@@ -11,7 +11,7 @@ App is planing.
 
 You can use DevShots to make Code Image, ScreenCapture Image, even iPhone Mockup
 
-<img src="images/x-shots-1695142830662.png">
+<img src="images/devshots-1700366940486.png">
 
 Now we have these features:
 
@@ -23,11 +23,34 @@ Now we have these features:
  * Support Mac, Windows, iPhone Mockup effect.
  * Support media watermark, with your username and userid.
 
+## Update history
+
+> Version 23.11.18
+
+- 🆕  New DevShots.app Domain 🎂
+- 🎨  Text Color Adjust 🎂
+- 🇰🇷  Support Korean 🇨🇳🇬🇧🇯🇵🇰🇷
+- 🇯🇵  Support Japanese 🇨🇳🇬🇧🇯🇵
+- 🔠  Modify Font Face 👧🎂
+- ✅  DevShots Media Responsive
+- 🔠  Modify Font Face 👧🎂
+- ✅  DevShots Media Responsive
+- 📱  Add iPhone15 Mockup
+- 🌃  Image x Text Mode
+- 🎲  Fun Shuffle Theme
+- 📝  Support Markdown Format
+- 🔍  Upscale Download Image
+- 🀄️  Add 4 Chinese Font Theme
+
 ## Some Works
 
-<img src="images/x-shots-1695142359868.png">
+#### Twitter Site Preview Image
 
-<img src="images/x-shots-1694922631994.png">
+<img src="images/devshots-1700320887782.png">
+
+#### 自媒体分享图
+
+<img src="images/devshots-1700361607856.png">
 
 ## User Feedback
 
@@ -45,4 +68,4 @@ We want to help Developers to make all kinds share images quickly.
 
 ## One more thing
 
-Welcome add issues and discuss with us.Try it now on  [gpwzw.com](https://www.gpwzw.com).
+Welcome add issues and discuss with us.Try it now on  [devshots.app](https://devshots.app).
