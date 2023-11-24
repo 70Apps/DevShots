@@ -7,6 +7,7 @@ You can use this tool at [devshots.app](https://devshots.app).
 
 App is planing.
 
+
 ## Feature
 
 You can use DevShots to make Code Image, ScreenCapture Image, even iPhone Mockup
@@ -25,8 +26,11 @@ Now we have these features:
 
 ## Update history
 
-> Version 23.11.18
+> Version 23.11.23
 
+- 🗂 Favorites Function
+- 🇯🇵 2 Japanese Font
+- 🔠 Upto 10 Font Family
 - 🆕  New DevShots.app Domain 🎂
 - 🎨  Text Color Adjust 🎂
 - 🇰🇷  Support Korean 🇨🇳🇬🇧🇯🇵🇰🇷
@@ -60,6 +64,12 @@ waiting for your advice.
 
 We want to help Developers to make all kinds share images quickly.
 
+### Github Project
+
+https://github.com/orgs/70Apps/projects/1/views/1
+
+### Issues
+
  * AppStore images
  * More Chinese Fonts
  * More Code themes
@@ -69,3 +79,19 @@ We want to help Developers to make all kinds share images quickly.
 ## One more thing
 
 Welcome add issues and discuss with us.Try it now on  [devshots.app](https://devshots.app).
+
+## Resource Thanks List
+
+### Fonts
+
+ - Consolas : https://learn.microsoft.com/en-us/typography/font-list/consolas
+ - Inconsolata : https://github.com/googlefonts/Inconsolata
+ - JetBrains Mono : https://github.com/JetBrains/JetBrainsMono
+ - Source Code Pro : https://github.com/adobe-fonts/source-code-pro
+ - Cascadia Code :  https://github.com/microsoft/cascadia-code
+ - SF Mono : https://github.com/supercomputra/SF-Mono-Font
+ - 更纱黑体：SARASA GOTHIC : https://github.com/be5invis/Sarasa-Gothic
+ - 霞鹜文楷：LXGW WenKai : https://github.com/lxgw/LxgwWenKai
+ - 演示佛系体：Slidefu : https://github.com/maoken-fonts/slidefont
+ - 江西拙楷 : https://www.zcool.com.cn/work/ZNDE4MzY4Mjg=.html
+ 
