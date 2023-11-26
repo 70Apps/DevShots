@@ -84,14 +84,25 @@ Welcome add issues and discuss with us.Try it now on  [devshots.app](https://dev
 
 ### Fonts
 
- - Consolas : https://learn.microsoft.com/en-us/typography/font-list/consolas
- - Inconsolata : https://github.com/googlefonts/Inconsolata
- - JetBrains Mono : https://github.com/JetBrains/JetBrainsMono
- - Source Code Pro : https://github.com/adobe-fonts/source-code-pro
- - Cascadia Code :  https://github.com/microsoft/cascadia-code
- - SF Mono : https://github.com/supercomputra/SF-Mono-Font
- - 更纱黑体：SARASA GOTHIC : https://github.com/be5invis/Sarasa-Gothic
- - 霞鹜文楷：LXGW WenKai : https://github.com/lxgw/LxgwWenKai
- - 演示佛系体：Slidefu : https://github.com/maoken-fonts/slidefont
- - 江西拙楷 : https://www.zcool.com.cn/work/ZNDE4MzY4Mjg=.html
- 
+ - 🇬🇧 Consolas : https://learn.microsoft.com/en-us/typography/font-list/consolas
+ - 🇬🇧 Inconsolata : https://github.com/googlefonts/Inconsolata
+ - 🇬🇧 JetBrains Mono : https://github.com/JetBrains/JetBrainsMono
+ - 🇬🇧 Source Code Pro : https://github.com/adobe-fonts/source-code-pro
+ - 🇺🇸 Cascadia Code :  https://github.com/microsoft/cascadia-code
+ - 🇬🇧 SF Mono : https://github.com/supercomputra/SF-Mono-Font
+ - 🇨🇳 更纱黑体：SARASA GOTHIC : https://github.com/be5invis/Sarasa-Gothic
+ - 🇨🇳 霞鹜文楷：LXGW WenKai : https://github.com/lxgw/LxgwWenKai
+ - 🇨🇳 演示佛系体：Slidefu : https://github.com/maoken-fonts/slidefont
+ - 🇨🇳 江西拙楷 : https://www.zcool.com.cn/work/ZNDE4MzY4Mjg=.html
+ - 🇯🇵  Makinas 4 Square : https://moji-waku.com/makinas/index.html
+ - 🇯🇵  M Plus 2 : https://mplusfonts.github.io/
+
+### Mockup
+
+ - Free Mockups - 390 Mockup ：https://www.figma.com/community/file/1299381971305083003
+ - Apple Device Mockups : https://www.figma.com/community/file/1125798347304294441
+
+### Develop Resource
+
+ - 中文 Web Font 切割工具 : https://github.com/KonghaYao/cn-font-split
+ - react-i18next : https://react.i18next.com/
