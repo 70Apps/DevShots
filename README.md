@@ -26,8 +26,15 @@ Now we have these features:
 
 ## Update history
 
-> Version 23.11.23
+> Version 24.3.2
 
+
+- 🀀 Add Chiense Peom Theme and 2 Chinese Fonts
+- 🗂 Optimize Favorites Function
+- 🚗 Fix Word Wrap Style
+- 🔟 Ten Code Font
+- ⌚️ Apple Watch,iPad Mockup
+- 📱 iPhone Mockup
 - 🗂 Favorites Function
 - 🇯🇵 2 Japanese Font
 - 🔠 Upto 10 Font Family
@@ -96,13 +103,18 @@ Welcome add issues and discuss with us.Try it now on  [devshots.app](https://dev
  - 🇨🇳 江西拙楷 : https://www.zcool.com.cn/work/ZNDE4MzY4Mjg=.html
  - 🇯🇵  Makinas 4 Square : https://moji-waku.com/makinas/index.html
  - 🇯🇵  M Plus 2 : https://mplusfonts.github.io/
+ - 🇨🇳 小赖字体 : https://github.com/lxgw/kose-font
+ - 🇨🇳 萌神手写体 : https://github.com/MaruTama/Mengshen-pinyin-font
 
 ### Mockup
 
  - Free Mockups - 390 Mockup ：https://www.figma.com/community/file/1299381971305083003
  - Apple Device Mockups : https://www.figma.com/community/file/1125798347304294441
+ - Apple Device Mockups (iMac, MacBook, iPhone, iPad and Apple Watch) (Community) : https://www.figma.com/file/DftksHqVe8ZjwjPXWmSDzH/
 
 ### Develop Resource
 
  - 中文 Web Font 切割工具 : https://github.com/KonghaYao/cn-font-split
  - react-i18next : https://react.i18next.com/
+ - https://github.com/image-js/image-js
+ -
