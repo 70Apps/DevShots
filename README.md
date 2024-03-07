@@ -12,7 +12,7 @@ App is planing.
 
 You can use DevShots to make Code Image, ScreenCapture Image, even iPhone Mockup
 
-<img src="images/devshots-1700366940486.png">
+<img src="images/devshots-1709770176010.png">
 
 Now we have these features:
 
@@ -26,9 +26,11 @@ Now we have these features:
 
 ## Update history
 
-> Version 24.3.2
+> Version 24.3.7
 
 
+- 📰 Add KingHwa Old Song Font
+- 📰 Add Old Newspaper Theme
 - 🀀 Add Chiense Peom Theme and 2 Chinese Fonts
 - 🗂 Optimize Favorites Function
 - 🚗 Fix Word Wrap Style
@@ -61,6 +63,7 @@ Now we have these features:
 
 #### 自媒体分享图
 
+<img src="images/devshots-1709770219222.png">
 <img src="images/devshots-1700361607856.png">
 
 ## User Feedback
@@ -105,6 +108,7 @@ Welcome add issues and discuss with us.Try it now on  [devshots.app](https://dev
  - 🇯🇵  M Plus 2 : https://mplusfonts.github.io/
  - 🇨🇳 小赖字体 : https://github.com/lxgw/kose-font
  - 🇨🇳 萌神手写体 : https://github.com/MaruTama/Mengshen-pinyin-font
+ - 🇨🇳 京华老宋体 :  https://zhuanlan.zhihu.com/p/637491623
 
 ### Mockup
 
@@ -117,4 +121,8 @@ Welcome add issues and discuss with us.Try it now on  [devshots.app](https://dev
  - 中文 Web Font 切割工具 : https://github.com/KonghaYao/cn-font-split
  - react-i18next : https://react.i18next.com/
  - https://github.com/image-js/image-js
- -
+
+### Github Stuff
+
+ -  Add PR https://github.com/niklasvh/html2canvas/pull/3153 to html2canvas project to fix transfrom rotate style issue
+ - 新增免费商用字体【演示佛系体】 https://github.com/KonghaYao/chinese-free-web-font-storage/issues/10
